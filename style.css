@@ -3,3 +3,10 @@
     font: 200;
     margin-top: 200px;
 }
+
+a{
+image-rendering: crisp-edges;
+mask-image: url(google.com);
+
+
+}
