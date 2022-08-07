@@ -32,3 +32,14 @@ font-style: inherit;
     box-sizing: border-box;
     
 }
+
+#mainbar{
+
+    float: left;
+    width: 70%;
+    background: rgb(0, 0, 0);
+    color: rgb(47, 180, 98);
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
