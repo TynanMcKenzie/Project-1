@@ -21,8 +21,14 @@ font-style: inherit;
 
 }
 
-.sidelist{
-font-weight: 500;
-color: beige;
 
+#sidebar{
+
+    float: right;
+    width: 30%;
+    background: rgb(0, 0, 0);
+    color: wheat;
+    padding: 10px;
+    box-sizing: border-box;
+    
 }
