@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a{
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-size: large;
@@ -7,4 +8,50 @@ color: forestgreen;
 a{
 background-color: black
 
+=======
+.block {
+
+    font: 200;
+    margin-top: 200px;
+}
+
+a{
+
+
+
+
+    
+
+
+}
+
+
+.square{
+
+font-style: inherit;
+
+}
+
+
+#sidebar{
+
+    float: right;
+    width: 30%;
+    background: rgb(0, 0, 0);
+    color: wheat;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+#mainbar{
+
+    float: left;
+    width: 70%;
+    background: rgb(0, 0, 0);
+    color: rgb(47, 180, 98);
+    padding: 10px;
+    box-sizing: border-box;
+    
+>>>>>>> d2e269b98cd396bd1abaa826387741a169b192ad
 }
